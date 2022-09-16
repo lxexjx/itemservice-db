@@ -1,1 +1,1 @@
-### springMVC -DB2
+### DB2
